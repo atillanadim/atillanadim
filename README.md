@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there%2C+welcome+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+world%2C+welcome+to+my+profile.)](https://git.io/typing-svg)
 
 I’m @atillanadim
 
-Front-End Developer Student. DnD lover and LOTR fan. Future web developer.
+Systems Analysis and Development Student. DnD lover and LOTR fan. Future web developer.
