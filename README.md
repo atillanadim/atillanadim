@@ -2,4 +2,4 @@
 
 I’m @atillanadim
 
-Systems Analysis and Development Student. DnD lover and LOTR fan. Future web developer.
+Systems Analysis and Development Student. DnD lover and LOTR fan. 
