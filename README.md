@@ -2,4 +2,4 @@
 
 I’m @atillanadim
 
-Computer Science and Engineering Student. DnD lover and LOTR fan. 
+Systems Analysis and Development Student. Elden Ring lover and LOTR fan. 
