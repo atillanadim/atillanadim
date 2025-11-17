@@ -15,10 +15,4 @@ Languages: Python, C#, JavaScript, TypeScript
 Learning: PostgreSQL, Java
 Hobbies: Lifting heavy weights, gaming and learning about nerd technologies.
 ```
-<p align="left">
-  <img alt="#1a1a1a" src="https://via.placeholder.com/15/1a1a1a/000000?text=+" width="25" height="20" />
-  <img alt="#333333" src="https://via.placeholder.com/15/333333/000000?text=+" width="25" height="20" />
-  <img alt="#4d004d" src="https://via.placeholder.com/15/4d004d/000000?text=+" width="25" height="20" />
-  <img alt="#5c5c5c" src="https://via.placeholder.com/15/5c5c5c/000000?text=+" width="25" height="20" />
-  <img alt="#3c003c" src="https://via.placeholder.com/15/3c003c/000000?text=+" width="25" height="20" />
-</p>
+
