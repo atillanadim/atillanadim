@@ -7,15 +7,13 @@
 ```csharp
 atillanadim@github
 -------------------------
-OS: Arch Linux x86_64
+OS: Debian Linux/Windows x86_64
 Shell: zsh 5.8
 Location: Porto, PT
-Frameworks: React
-Languages: Python, CPP, JavaScript, TypeScript,
-           HTML, CSS
+Frameworks: React and Next.JS
+Languages: Python, C#, JavaScript, TypeScript
 Learning: PostgreSQL, Java
-Hobbies: Lifting and Gaming
-Discord: satanchild.
+Hobbies: Lifting heavy weights, gaming and learning about nerd technologies.
 ```
 <p align="left">
   <img alt="#1a1a1a" src="https://via.placeholder.com/15/1a1a1a/000000?text=+" width="25" height="20" />
