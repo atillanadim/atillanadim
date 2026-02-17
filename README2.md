@@ -15,4 +15,3 @@ Languages: Python, C#, JavaScript, TypeScript
 Learning: PostgreSQL, Java
 Hobbies: Lifting heavy weights, gaming and learning about nerd technologies.
 ```
-
