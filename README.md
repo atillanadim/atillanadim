@@ -2,7 +2,9 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/87/80/84/878084c5a61e9a4b5cb77d07c8ba48f0.jpg" alt="cool Aragorn" width="320" /> 
+
+<img width="450" height="338" alt="ondasascii" src="https://github.com/user-attachments/assets/695e4ee5-975d-48de-bc51-f2979274033e" />
+
 
 ```csharp
 atillanadim@github
