@@ -3,7 +3,7 @@
 ```
 
 
-<img width="450" height="338" alt="ondasascii" src="https://github.com/user-attachments/assets/695e4ee5-975d-48de-bc51-f2979274033e" />
+<img width="320" alt="ondasascii" src="https://github.com/user-attachments/assets/695e4ee5-975d-48de-bc51-f2979274033e" />
 
 
 ```csharp
